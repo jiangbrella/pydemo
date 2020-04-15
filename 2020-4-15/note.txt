@@ -1,0 +1,18 @@
+python基础相关
+1.打印各种三角形
+2.乘法表
+字符串
+类型转换
+int()
+long()
+float()
+str()转字符串 
+repr() 转表达式
+eval() 计算字符串中的表达式，并返回一个对象
+tuple() 
+list()
+chr()   整数转字符
+unichr()  整数转Unicode字符
+ord() 将字符转换为其整数值
+hex()  整数转十六进制
+oct()  整数转八进制 
